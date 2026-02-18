@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vulnerability Assessment Report - Cyber Security Task 1
 
 ## 📋 Project Overview
@@ -242,3 +243,7 @@ After implementing the recommended fixes:
 **Date**: February 17, 2026  
 **Status**: Initial Assessment Complete  
 **Next Steps**: Remediation & Follow-up Assessment
+=======
+# FUTURE_CS_01
+"Vulnerability Assessment Report"
+>>>>>>> cc4f196e5f721f87028b3738789fe32dd7cff857
