@@ -1,0 +1,17 @@
+﻿# Nmap 7.98 Scan Results
+# Command: nmap -sV -sC -O scanme.nmap.org
+# Date: Tue Feb 17 20:07:00 2026
+
+Nmap scan report for scanme.nmap.org
+Host is up (0.058s latency).
+
+PORT STATE SERVICE VERSION
+22/tcp open ssh OpenSSH 6.6.1p1 Ubuntu
+80/tcp open http Apache httpd 2.4.7
+9929/tcp open nping-echo Nping echo
+12345/tcp closed netbus
+
+OS Detection: Linux (Non-ideal conditions)
+Network Distance: 16 hops
+
+Scan completed in 109.92 seconds
